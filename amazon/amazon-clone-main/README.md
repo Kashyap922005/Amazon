@@ -1,3 +1,3 @@
 try the link !!
 amazon-clone!!
-https://vivekkaannamreddi.github.io/amazon-clone/p1.html
+https://github.com/Kashyap922005/Amazon
